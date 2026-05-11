@@ -1,5 +1,8 @@
 # ReactPage_to_AWS_S3
 react homepage to AWS S3 - github actions
+
+[Github Actions 활용 CI/CD 구축 시연 영상](https://youtu.be/f0syG1iJW2E)   
+[AWS Amplify 서비스 활용 영상](https://youtu.be/RL5XDbFVK1o)   
  
 ---
 # 1. 시스템 구현하기
